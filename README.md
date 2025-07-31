@@ -1,5 +1,5 @@
 # V2Ray to Clash
-## 简体中文|English
+## 简体中文|[English](https://github.com/yzh118/v2ray_to_clash/blob/main/README_EN.md)
 将v2ray格式的节点配置链接转换为可用的Clash yaml格式。
 仅支持在amd64平台上运行。
 ## 正文

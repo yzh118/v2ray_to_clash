@@ -1,4 +1,4 @@
-# v2ray_to_clash  
+# V2Ray to Clash  
 ## [简体中文](https://github.com/yzh118/v2ray_to_clash)|English  
 Convert v2ray format node configuration links into usable Clash yaml format.  
 Only supports running on amd64 platforms.  
